@@ -1,10 +1,8 @@
 # To do List ou Lista de tarefas 📖
-Lista de tarefas feita utilizando JavaScript.
+Lista de tarefas feita utilizando ReactJs.
 
 ## Tecnologias usadas :computer:
 <div style="display: inline_block">
- <img align="center" alt="Lops-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
- <img align="center" alt="Lops-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
  <img align="center" alt="Lops-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> 
 
@@ -13,7 +11,7 @@ Lista de tarefas feita utilizando JavaScript.
   <img src="https://github.com/TalitaLops/Lista-de-Tarefas-Js/blob/main/Capturar.PNG?raw=true"
 </p>
  
-https://todolistteste.netlify.app
+
 
 ## Funções
 `Criar novo item` : Digite o item na caixa de texto "Create new item" e pressione "Enter".
